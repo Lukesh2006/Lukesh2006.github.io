@@ -1,4 +1,4 @@
-# Lukesh M — Portfolio
+# Lukesh Murugan — Portfolio
 
 An animated single-page portfolio. No build step, no dependencies — plain HTML, CSS and JavaScript.
 

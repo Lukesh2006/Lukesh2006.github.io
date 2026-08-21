@@ -1,5 +1,5 @@
 /* ============================================================
-   Lukesh M — portfolio
+   Lukesh Murugan — portfolio
    Everything is driven from CONFIG below. Edit that object to
    change content; no other file needs touching.
    ============================================================ */
