@@ -240,6 +240,11 @@ const CONFIG = {
 
   timeline: [
     {
+      when: '2024 — 2028',
+      title: 'B.Tech, Artificial Intelligence & Data Science',
+      text: 'Saveetha Engineering College, Chennai. Currently in my third year, graduating 2028 — coursework spanning AI, machine learning, data science, computer vision, parallel computing and digital systems.',
+    },
+    {
       when: 'Sept 2024',
       title: 'Started building in public',
       text: 'Opened my GitHub account and began publishing every experiment — from first linear-algebra scripts to full vision pipelines. It is now 177 public repositories.',

@@ -38,7 +38,7 @@ Colours are CSS variables at the top of `styles.css` (`--acc`, `--acc-2`, `--acc
 ## Before you publish — three things to fill in
 
 1. **Email** — `index.html` contains `REPLACE_WITH_YOUR_EMAIL@example.com`. Replace it.
-2. **Still missing** — degree name and branch, graduation year, location, and any
+2. **Still missing** — any
    achievements or positions of responsibility. The internship bullet points in
    `CONFIG.experience` were written from your listed skill set, so reword them to match
    what you actually did at RETECH. Everything else — the four certifications, dates,
