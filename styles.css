@@ -140,10 +140,12 @@ html[data-theme="light"] .glow { opacity: .22; }
 .preloader.done { opacity: 0; visibility: hidden; }
 .preloader-inner { text-align: center; }
 .preloader-name {
-  font-family: 'Space Grotesk', sans-serif; font-size: clamp(1.4rem, 5vw, 2.2rem);
-  font-weight: 700; letter-spacing: .5em; text-indent: .5em;
-  background: var(--grad); -webkit-background-clip: text; background-clip: text;
-  color: transparent;
+  font-family: 'Space Grotesk', sans-serif; font-size: clamp(1.7rem, 6vw, 3rem);
+  font-weight: 700; letter-spacing: -.02em;
+  background: var(--grad); background-size: 200% 200%;
+  -webkit-background-clip: text; background-clip: text;
+  color: transparent; white-space: nowrap;
+  animation: shift 2.4s ease-in-out infinite;
 }
 .preloader-bar {
   margin: 1.4rem auto 0; width: min(240px, 60vw); height: 2px;
